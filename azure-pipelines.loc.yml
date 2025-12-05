@@ -2,7 +2,7 @@
 # Localization
 # This pipeline uploads English strings files to the localization service, downloads any translated
 # files which are available, and checks them into git. This pipeline relies on Microsoft-internal
-# resources to run.
+# resources to run.0a3e52a44eee1fd4100bc98693eca6757ad4b096
 #
 
 # Expects a variable called LocServiceKey to contain the OAuth client secret for Touchdown.
